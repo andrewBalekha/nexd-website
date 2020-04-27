@@ -42,5 +42,6 @@ html,
 body,
 .v-application {
   font-family: ProximaNova, sans-serif !important;
+  overflow: hidden;
 }
 </style>
