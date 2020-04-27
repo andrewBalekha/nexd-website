@@ -16,10 +16,9 @@ export default {
   components: {
     intro,
     videoTemplate,
-    howitworks
-  }
+    howitworks,
+  },
 };
 </script>
 
-<style>
-</style>
+<style></style>

@@ -4,52 +4,179 @@
       mc:template_section="Product"
       class="templateSection templateProduct"
       data-template-container=""
-      style="background:#ffffff none no-repeat center/cover;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;position: relative;display: flex;flex-shrink: 0;justify-content: center;padding-right: 36px;padding-left: 36px;background-color: #ffffff;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 81px;padding-bottom: 81px;box-sizing: border-box !important;"
+      style="
+        background: #ffffff none no-repeat center/cover;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        position: relative;
+        display: flex;
+        flex-shrink: 0;
+        justify-content: center;
+        padding-right: 36px;
+        padding-left: 36px;
+        background-color: #ffffff;
+        background-image: none;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        border-top: 0;
+        border-bottom: 0;
+        padding-top: 81px;
+        padding-bottom: 81px;
+        box-sizing: border-box !important;
+      "
       id="section-product"
     >
       <div
         class="contentContainer productContainer"
-        style="background:#transparent none no-repeat center/cover;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;max-width: 1224px;width: 100%;flex: 0 0 auto;background-color: #transparent;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 0;padding-bottom: 0;box-shadow: none;box-sizing: border-box !important;"
+        style="
+          background: #transparent none no-repeat center/cover;
+          -webkit-box-sizing: border-box;
+          -moz-box-sizing: border-box;
+          max-width: 1224px;
+          width: 100%;
+          flex: 0 0 auto;
+          background-color: #transparent;
+          background-image: none;
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size: cover;
+          border-top: 0;
+          border-bottom: 0;
+          padding-top: 0;
+          padding-bottom: 0;
+          box-shadow: none;
+          box-sizing: border-box !important;
+        "
       >
         <div
           width="100%"
           class="mcnTextBlock"
-          style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+          style="
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box !important;
+          "
         >
           <div
             class="mcnTextBlockInner"
-            style="display: flex;padding: 9px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+            style="
+              display: flex;
+              padding: 9px;
+              -webkit-box-sizing: border-box;
+              -moz-box-sizing: border-box;
+              box-sizing: border-box !important;
+            "
           >
             <div
-              style="width: 100%;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+              style="
+                width: 100%;
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box !important;
+              "
             >
               <div
                 class="mcnTextContent"
-                style="padding-top: 0;padding-right: 9px;padding-bottom: 9px;padding-left: 9px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;word-break: break-word;flex-flow: column;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                style="
+                  padding-top: 0;
+                  padding-right: 9px;
+                  padding-bottom: 9px;
+                  padding-left: 9px;
+                  -webkit-box-sizing: border-box;
+                  -moz-box-sizing: border-box;
+                  word-break: break-word;
+                  flex-flow: column;
+                  color: #000000;
+                  font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                    sans-serif;
+                  font-size: 16px;
+                  line-height: 150%;
+                  text-align: left;
+                  box-sizing: border-box !important;
+                "
               >
                 <h1
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 40px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 40px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <span
-                    style="color: #4EBF96;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      color: #4ebf96;
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Datenschutzerklärung</span
                   >
                 </h1>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <span
-                    style="color: #4EBF96;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      color: #4ebf96;
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Datenschutz</span
                   >
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wir haben diese Datenschutzerklärung (Fassung
                   29.03.2020-311165736) verfasst, um Ihnen gemäß der Vorgaben
@@ -58,7 +185,14 @@
                     href="https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679&amp;tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Datenschutz-Grundverordnung (EU) 2016/679</a
                   >
                   zu erklären, welche Informationen wir sammeln, wie wir Daten
@@ -67,7 +201,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Leider liegt es in der Natur der Sache, dass diese Erklärungen
                   sehr technisch klingen, wir haben uns bei der Erstellung
@@ -76,17 +222,49 @@
                 </p>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Cookies
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Unsere Website verwendet HTTP-Cookies um nutzerspezifische
                   Daten zu speichern.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   Im Folgenden erklären wir, was Cookies sind und warum Sie
                   genutzt werden, damit Sie die folgende Datenschutzerklärung
@@ -94,13 +272,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Was genau sind Cookies?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Immer wenn Sie durch das Internet surfen, verwenden Sie einen
                   Browser. Bekannte Browser sind beispielsweise Chrome, Safari,
@@ -110,7 +316,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Eines ist nicht von der Hand zu weisen: Cookies sind echt
                   nützliche Helferlein. Fast alle Webseiten
@@ -126,7 +344,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Cookies&nbsp;speichern gewisse Nutzerdaten von Ihnen, wie
                   beispielsweise Sprache oder persönliche Seiteneinstellungen.
@@ -140,7 +370,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Es gibt sowohl Erstanbieter Cookies als auch
                   Drittanbieter-Cookies. Erstanbieter-Cookies werden direkt von
@@ -155,58 +397,118 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   So können zum Beispiel Cookie-Daten aussehen:
                 </p>
 
                 <ul
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Name: _ga
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Ablaufzeit: 2 Jahre
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Verwendung: Unterscheidung der Webseitenbesucher
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Beispielhafter Wert:&nbsp;GA1.2.1326744211.152311165736
                   </li>
                 </ul>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Ein Browser sollte folgende Mindestgrößen unterstützen:
                 </p>
 
                 <ul
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Ein Cookie soll mindestens 4096 Bytes enthalten können
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Pro Domain sollen mindestens 50 Cookies gespeichert werden
                     können
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Insgesamt sollen mindestens 3000 Cookies gespeichert werden
                     können
@@ -214,13 +516,41 @@
                 </ul>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Welche Arten von Cookies gibt es?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Die Frage welche Cookies wir im Speziellen verwenden, hängt
                   von den verwendeten Diensten ab und wird in der folgenden
@@ -230,19 +560,51 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Man kann 4 Arten von Cookies unterscheiden:
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Unbedingt notwendige Cookies</strong
                   ><br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   Diese Cookies sind nötig, um grundlegende Funktionen der
                   Website sicherzustellen. Zum Beispiel braucht es diese
@@ -253,13 +615,33 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Funktionelle Cookies</strong
                   ><br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   Diese Cookies sammeln Infos über das Userverhalten und ob der
                   User etwaige Fehlermeldungen bekommt. Zudem werden mithilfe
@@ -268,13 +650,33 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Zielorientierte Cookies</strong
                   ><br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   Diese Cookies sorgen für eine bessere Nutzerfreundlichkeit.
                   Beispielsweise werden eingegebene Standorte, Schriftgrößen
@@ -282,13 +684,33 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Werbe-Cookies</strong
                   ><br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   Diese Cookies werden auch Targeting-Cookies genannt. Sie
                   dienen dazu dem User individuell angepasste Werbung zu
@@ -296,7 +718,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Üblicherweise werden Sie beim erstmaligen Besuch einer
                   Webseite gefragt, welche dieser Cookiearten Sie zulassen
@@ -305,13 +739,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie kann ich Cookies löschen?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie und ob Sie Cookies verwenden wollen, entscheiden Sie
                   selbst. Unabhängig von welchem Service oder welcher Website
@@ -322,7 +784,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wenn Sie feststellen möchten, welche Cookies in Ihrem Browser
                   gespeichert wurden, wenn Sie Cookie-Einstellungen ändern oder
@@ -331,70 +805,177 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.google.com/chrome/answer/95647?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Chrome: Cookies in Chrome löschen, aktivieren und
                     verwalten</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Safari: Verwalten von Cookies und Websitedaten mit
                     Safari</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Firefox: Cookies löschen, um Daten zu entfernen, die
                     Websites auf Ihrem Computer abgelegt haben</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.microsoft.com/de-at/help/17442/windows-internet-explorer-delete-manage-cookies?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Internet Explorer: Löschen und Verwalten von Cookies</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.microsoft.com/de-at/help/4027947/windows-delete-cookies?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Microsoft Edge: Löschen und Verwalten von Cookies</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Falls Sie grundsätzlich keine Cookies haben wollen, können Sie
                   Ihren Browser so einrichten, dass er Sie immer informiert,
@@ -409,13 +990,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie sieht es mit meinem Datenschutz aus?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Seit 2009 gibt es die sogenannten „Cookie-Richtlinien“. Darin
                   ist festgehalten, dass das Speichern von Cookies eine
@@ -429,27 +1038,74 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wenn Sie mehr über Cookies wissen möchten und vor technischen
                   Dokumentationen nicht zurückscheuen, empfehlen wir&nbsp;<a
                     href="https://tools.ietf.org/html/rfc6265"
                     rel="nofollow noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://tools.ietf.org/html/rfc6265</a
                   >, dem Request for Comments der Internet Engineering Task
                   Force (IETF) namens “HTTP State Management Mechanism”.
                 </p>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Speicherung persönlicher Daten
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Persönliche Daten, die Sie uns auf dieser Website elektronisch
                   übermitteln, wie zum Beispiel Name, E-Mail-Adresse, Adresse
@@ -461,7 +1117,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wir nutzen Ihre persönlichen Daten somit nur für die
                   Kommunikation mit jenen Besuchern, die Kontakt ausdrücklich
@@ -473,7 +1141,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wenn Sie uns persönliche Daten per E-Mail schicken – somit
                   abseits dieser Webseite – können wir keine sichere Übertragung
@@ -483,14 +1163,33 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Die Rechtsgrundlage besteht nach
                   <a
                     href="https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&amp;from=DE&amp;tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Artikel 6&nbsp; Absatz 1 a DSGVO</a
                   >
                   (Rechtmäßigkeit der Verarbeitung) darin, dass Sie uns die
@@ -501,39 +1200,87 @@
                 </p>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Rechte laut Datenschutzgrundverordnung
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Ihnen stehen laut den Bestimmungen der DSGVO grundsätzlich die
                   folgende Rechte zu:
                 </p>
 
                 <ul
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Recht auf Berichtigung (Artikel 16 DSGVO)
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Recht auf Löschung („Recht auf Vergessenwerden“) (Artikel 17
                     DSGVO)
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Recht auf Einschränkung der Verarbeitung (Artikel 18 DSGVO)
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Recht auf Benachrichtigung – Mitteilungspflicht im
                     Zusammenhang mit der Berichtigung oder Löschung
@@ -541,17 +1288,29 @@
                     Verarbeitung (Artikel 19 DSGVO)
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Recht auf Datenübertragbarkeit (Artikel 20 DSGVO)
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Widerspruchsrecht (Artikel 21 DSGVO)
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Recht, nicht einer ausschließlich auf einer automatisierten
                     Verarbeitung — einschließlich Profiling — beruhenden
@@ -560,7 +1319,19 @@
                 </ul>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das
                   Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen
@@ -570,7 +1341,14 @@
                     href="https://www.bfdi.bund.de"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Bundesbeauftragte für den Datenschutz und die
                     Informationsfreiheit (BfDI)</a
                   >
@@ -578,13 +1356,41 @@
                 </p>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Auswertung des Besucherverhaltens
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   In der folgenden Datenschutzerklärung informieren wir Sie
                   darüber, ob und wie wir Daten Ihres Besuchs dieser Website
@@ -594,7 +1400,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Mehr über Möglichkeiten dieser Auswertung der Besuchsdaten zu
                   widersprechen erfahren Sie in der folgenden
@@ -602,13 +1420,41 @@
                 </p>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Google Fonts Lokal Datenschutzerklärung
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wir verwenden Google Fonts der Firma Google Inc. (1600
                   Amphitheatre Parkway Mountain View, CA 94043, USA) auf unserer
@@ -619,19 +1465,54 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Was sind Google Fonts?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Google Fonts&nbsp;(früher&nbsp;Google Web Fonts) ist ein
                   interaktives Verzeichnis mit mehr als 800&nbsp;Schriftarten,
                   die die&nbsp;<a
                     href="https://de.wikipedia.org/wiki/Google_LLC?tid=311165736"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Google LLC</a
                   >&nbsp;zur freien Verwendung bereitstellt. Mit Google Fonts
                   könnte man die Schriften nutzen, ohne sie auf den eigenen
@@ -643,7 +1524,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Anders als andere Web-Schriften erlaubt uns Google
                   uneingeschränkten Zugriff auf alle Schriftarten. Wir können
@@ -652,19 +1545,54 @@
                   Fonts und weiteren Fragen finden Sie auf
                   <a
                     href="https://developers.google.com/fonts/faq?tid=311165736"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://developers.google.com/fonts/faq?tid=311165736</a
                   >.
                 </p>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Automatische Datenspeicherung
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wenn Sie heutzutage Webseiten besuchen, werden gewisse
                   Informationen automatisch erstellt und gespeichert, so auch
@@ -672,7 +1600,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wenn Sie unsere Webseite so wie jetzt gerade besuchen,
                   speichert unser Webserver (Computer auf dem diese Webseite
@@ -680,49 +1620,101 @@
                 </p>
 
                 <ul
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     die Adresse (URL) der aufgerufenen Webseite
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Browser und Browserversion
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     das verwendete Betriebssystem
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     die Adresse (URL) der zuvor besuchten Seite (Referrer URL)
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     den Hostname und die IP-Adresse des Geräts von welchem aus
                     zugegriffen wird
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Datum und Uhrzeit
                   </li>
                 </ul>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   in Dateien (Webserver-Logfiles).
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   In der Regel werden Webserver-Logfiles zwei Wochen gespeichert
                   und danach automatisch gelöscht. Wir geben diese Daten nicht
@@ -731,13 +1723,41 @@
                 </p>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Newsletter Datenschutzerklärung
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wenn Sie sich für unseren Newsletter eintragen übermitteln Sie
                   die oben genannten persönlichen Daten und geben uns das Recht
@@ -747,7 +1767,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Sollten Sie sich vom Newsletter abmelden – Sie finden den Link
                   dafür in jedem Newsletter ganz unten – dann löschen wir alle
@@ -755,13 +1787,41 @@
                 </p>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   MailChimp Datenschutzerklärung
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie viele andere Webseiten verwenden auch wir auf unsere Seite
                   die Dienste des Newsletter-Unternehmens MailChimp. Der
@@ -777,13 +1837,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Was ist MailChimp?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   MailChimp ist ein cloudbasiertes
                   Newsletter-Management-Service. „Cloudbasiert“ heißt, dass wir
@@ -795,7 +1883,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Mit MailChimp können wir aus einer breiten Palette an
                   verschiedenen E-Mail-Typen auswählen. Abhängig davon, was wir
@@ -807,13 +1907,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Warum verwenden wir MailChimp auf unserer Webseite?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Grundsätzlich nutzen wir einen Newsletter-Dienst, damit wir
                   mit Ihnen in Kontakt bleiben. Wir wollen Ihnen erzählen was es
@@ -832,7 +1960,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Durch Tools wie beispielsweise den A/B-Test oder den
                   umfangreichen Analysemöglichkeiten, sehen wir sehr schnell,
@@ -842,7 +1982,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Ein weiterer Vorteil ist das „Cloudsystem“ von Mailchimp. Die
                   Daten werden nicht direkt auf unserem Server abgelegt und
@@ -852,13 +2004,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Welche Daten werden von MailChimp gespeichert?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Die Rocket Science Group LLC (MailChimp) unterhält
                   Online-Plattformen, die es uns ermöglichen, mit Ihnen (sofern
@@ -874,7 +2054,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Diese Informationen werden verwendet, um Ihnen E-Mails zu
                   senden und bestimmte anderer MailChimp-Funktionen (wie z.B.
@@ -882,7 +2074,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   MailChimp teilt Informationen auch mit Drittanbieter, um
                   bessere Dienste bereitzustellen. Einige Daten teilt MailChimp
@@ -893,7 +2097,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Durch sogenannte „Web Beacons“ (das sind kleine Grafiken in
                   HTML-E-Mails) kann MailChimp feststellen, ob die E-Mail
@@ -907,7 +2123,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   MailChimp darf zudem diese Daten auch zur Verbesserung des
                   eigenen Service-Dienstes verwenden. Dadurch kann
@@ -916,7 +2144,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Die folgenden Cookies können von Mailchimp gesetzt werden.
                   Dabei handelt es sich nicht um eine vollständige Cookie-Liste,
@@ -924,125 +2164,297 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name</strong
                   >:&nbsp;AVESTA_ENVIRONMENT<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:&nbsp;</strong
                   >Prod<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >
                   Dieses Cookie ist notwendig, um die Mailchimp-Dienste zur
                   Verfügung zu stellen. Es wird immer gesetzt, wenn ein User
                   sich für eine Newsletter-Mailing-Liste registriert.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >&nbsp;nach Sitzungsende
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name</strong
                   >: ak_bmsc<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:&nbsp;</strong
                   >F1766FA98C9BB9DE4A39F70A9E5EEAB55F6517348A7000001311165736-3<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >&nbsp;Das Cookie wird verwendet, um einen Menschen von einem
                   Bot unterscheiden zu können. So können sichere Berichte über
                   die Nutzung einer Website erstellt werden.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >&nbsp;nach 2 Stunden
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name</strong
                   >: bm_sv<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:&nbsp;</strong
                   >A5A322305B4401C2451FC22FFF547486~FEsKGvX8eovCwTeFTzb8//I3ak2Au…<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >&nbsp;Das Cookie ist von MasterPass Digital Wallet (ein
                   MasterCard-Dienst) und wird verwendet, um einem Besucher einen
                   virtuellen Zahlungsvorgang sicher und einfach anbieten zu
                   können. Dafür wird der User auf der Website anonym
                   identifiziert.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >&nbsp;nach 2 Stunden
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name</strong
                   >: _abck<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:&nbsp;</strong
                   >8D545C8CCA4C3A50579014C449B045311165736-9<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >&nbsp;Wir konnten über den Zweck dieses Cookies keine näheren
                   Informationen in Erfahrung bringen<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >&nbsp;nach einem Jahr
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Manchmal kann es vorkommen, dass Sie unseren Newsletter zur
                   besseren Darstellung über einen angegebenen Link öffnen. Das
@@ -1059,27 +2471,74 @@
                     href="https://mailchimp.com/legal/cookies/"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://mailchimp.com/legal/cookies/</a
                   >) erfahren Sie genau, wie und warum das Unternehmen Cookies
                   verwendet.
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie lange und wo werden die Daten gespeichert?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Da MailChimp ein amerikanisches Unternehmen ist, werden alle
                   gesammelten Daten auch auf amerikanischen Servern gespeichert.
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Grundsätzlich bleiben die Daten auf den Servern von Mailchimp
                   dauerhaft gespeichert und werden erst gelöscht, wenn eine
@@ -1095,14 +2554,42 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie kann ich meine Daten löschen bzw. die Datenspeicherung
                   verhindern?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Sie können Ihre Zustimmung für den Erhalt unseres Newsletters
                   jederzeit innerhalb der empfangenen E-Mail per Klick auf den
@@ -1112,7 +2599,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Falls Sie über einen Link in unserem Newsletter auf eine
                   Website von MailChimp gelangen und Cookies in Ihrem Browser
@@ -1121,7 +2620,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Je nach Browser funktioniert das Deaktivieren bzw. Löschen
                   etwas anders. Die folgenden Anleitungen zeigen, wie Sie
@@ -1129,70 +2640,177 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.google.com/chrome/answer/95647?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Chrome: Cookies in Chrome löschen, aktivieren und
                     verwalten</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Safari: Verwalten von Cookies und Websitedaten mit
                     Safari</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Firefox: Cookies löschen, um Daten zu entfernen, die
                     Websites auf Ihrem Computer abgelegt haben</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.microsoft.com/de-at/help/17442/windows-internet-explorer-delete-manage-cookies?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Internet Explorer: Löschen und Verwalten von Cookies</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.microsoft.com/de-at/help/4027947/windows-delete-cookies?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Microsoft Edge: Löschen und Verwalten von Cookies</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Falls Sie grundsätzlich keine Cookies haben wollen, können Sie
                   Ihren Browser so einrichten, dass er Sie immer informiert,
@@ -1201,7 +2819,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   MailChimp ist aktiver Teilnehmer beim EU-U.S. Privacy Shield
                   Framework wodurch der korrekte und sichere Datentransfer
@@ -1211,34 +2841,83 @@
                     href="https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&amp;tid=311165736</a
                   >. Mehr über den Einsatz von Cookies bei MailChimp erfahren
                   Sie auf&nbsp;<a
                     href="https://mailchimp.com/legal/cookies/"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://mailchimp.com/legal/cookies/</a
                   >, Informationen zum Datenschutz bei MailChimp (Privacy)
                   können Sie auf&nbsp;<a
                     href="https://mailchimp.com/legal/privacy/"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://mailchimp.com/legal/privacy/</a
                   >
                   nachlesen.
                 </p>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   MailChimp Auftragsdatenverarbeitung Vertrag
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wir haben mit MailChimp einen Vertrag über die
                   Auftragsdatenverarbeitung (Data Processing Addendum)
@@ -1249,23 +2928,70 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Mehr Informationen zu diesem Vertrag finden Sie auf&nbsp;<a
                     href="http://mailchimp.com/legal/forms/data-processing-agreement/"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >http://mailchimp.com/legal/forms/data-processing-agreement/</a
                   >.
                 </p>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Google AdSense Datenschutzerklärung
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wir verwenden auf dieser Webseite Google AdSense, dem
                   Anzeigenprogramm der Firma Google Inc. (1600 Amphitheatre
@@ -1280,7 +3006,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Rechtsgrundlage für die Verwendung von Google AdSense ist
                   Artikel 6 (1) f (Rechtmäßigkeit der Verarbeitung), denn es
@@ -1289,13 +3027,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Was ist Google AdSense?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Google AdSense gibt es mittlerweile seit 2003 und ist ein
                   Werbeprogramm der Firma Google. Im Gegensatz zu Google Ads
@@ -1323,13 +3089,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Warum verwenden wir Google AdSense auf unserer Webseite?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Das Betreiben einer qualitativ hochwertigen Webseite erfordert
                   viel Hingabe und großen Einsatz. Im Grunde sind wir mit der
@@ -1345,7 +3139,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Ähnlich wie bei der Google-Indexierung für eine Webseite,
                   untersucht ein Bot den entsprechenden Content und die
@@ -1361,13 +3167,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Welche Daten werden von Google AdSense gespeichert?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Damit Google AdSense eine maßgeschneiderte, auf Sie angepasste
                   Werbung anzeigen kann, werden unter anderem Cookies verwendet.
@@ -1376,7 +3210,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   In AdSense sollen Cookies bessere Werbung ermöglichen. Die
                   Cookies enthalten keine personenidentifizierbaren Daten.
@@ -1394,7 +3240,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Drittanbieter können im Rahmen von AdSense unter Umständen
                   Cookies in Ihrem Browser platzieren und auslesen bzw.
@@ -1407,23 +3265,47 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Google kann über diese Cookies bestimmte Informationen über
                   Ihr Userverhalten auf unserer Webseite sammeln. Dazu zählen:
                 </p>
 
                 <ul
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Informationen wie Sie mit einer Anzeige umgehen (Klicks,
                     Impression, Mausbewegungen)
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Informationen, ob in Ihrem Browser schon eine Anzeige zu
                     einem früheren Zeitpunkt erschienen ist. Diese Daten helfen
@@ -1432,7 +3314,19 @@
                 </ul>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Dabei analysiert Google die Daten zu den angezeigten
                   Werbemitteln und Ihre IP-Adresse und wertet diese aus. Google
@@ -1444,43 +3338,87 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Im Folgenden stellen wir Ihnen Cookies vor, die Google AdSense
                   für Trackingzwecke verwendet. Hierbei beziehen wir uns auf
                   eine Test-Webseite, die ausschließlich Google AdSense
                   installiert hat:<strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >&nbsp;</strong
                   >
                 </p>
 
                 <ul
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Name:</strong
                     >
                     uid
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Ablaufzeit:</strong
                     >
                     nach 2 Monaten
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Verwendung:</strong
                     >
                     Das Cookie wird unter der Domain adform.net gespeichert. Es
@@ -1489,10 +3427,18 @@
                     unserer Webseite.
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Beispielwert:</strong
                     >
                     891269189311165736
@@ -1500,31 +3446,59 @@
                 </ul>
 
                 <ul
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Name:</strong
                     >
                     C
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Ablaufzeit:</strong
                     >
                     nach 1 Monat
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Verwendung:</strong
                     >
                     Dieses Cookie identifiziert, ob Ihrer Browser Cookies
@@ -1532,10 +3506,18 @@
                     track.adform.net gespeichert.
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Beispielwert:</strong
                     >
                     1
@@ -1543,31 +3525,59 @@
                 </ul>
 
                 <ul
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Name:</strong
                     >
                     cid
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Ablaufzeit:</strong
                     >
                     nach 2 Monaten
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Verwendung:</strong
                     >
                     Dieses Cookie wird unter der Domain track.adform.net
@@ -1577,10 +3587,18 @@
                     die Kampagnenleistung zu verbessern.
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Beispielwert:</strong
                     >
                     8912691894970695056,0,0,0,0
@@ -1588,31 +3606,59 @@
                 </ul>
 
                 <ul
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Name:</strong
                     >
                     IDE
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Ablaufzeit:</strong
                     >
                     nach 1 Monat
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Verwendung:</strong
                     >
                     Das Cookie wird unter der Domain doubkeklick.net
@@ -1622,10 +3668,18 @@
                     ankommt.
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Beispielwert:</strong
                     >
                     zOtj4TWxwbFDjaATZ2TzNaQmxrU311165736
@@ -1633,31 +3687,59 @@
                 </ul>
 
                 <ul
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Name:</strong
                     >
                     test_cookie
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Ablaufzeit:</strong
                     >
                     nach 1 Monat
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Verwendung:</strong
                     >
                     Mithilfe des „test_cookies“ kann man überprüfen, ob Ihr
@@ -1665,10 +3747,18 @@
                     der Domain doubkeklick.net gespeichert.
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Beispielwert:</strong
                     >
                     keine Angabe
@@ -1676,31 +3766,59 @@
                 </ul>
 
                 <ul
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Name:</strong
                     >
                     CT592996
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Ablaufzeit:</strong
                     >
                     nach einer Stunde
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Verwendung:</strong
                     >
                     Wird unter der Domain adform.net gespeichert. Das Cookie
@@ -1709,17 +3827,37 @@
                     konnten wir nicht in Erfahrung bringen.
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     <strong
-                      style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                      style="
+                        -webkit-box-sizing: border-box;
+                        -moz-box-sizing: border-box;
+                        box-sizing: border-box !important;
+                      "
                       >Beispielwert</strong
                     >: 733366
                   </li>
                 </ul>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Anmerkung:&nbsp;Diese Aufzählung kann keinen Anspruch auf
                   Vollständigkeit erheben, da Google erfahrungsgemäß die Wahl
@@ -1727,13 +3865,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie lange und wo werden die Daten gespeichert?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Google erfasst Ihre IP-Adresse und verschiedene Aktivitäten,
                   die Sie auf der Webseite ausführen. Cookies speichern diese
@@ -1744,7 +3910,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wenn Sie kein Google-Konto haben bzw. nicht angemeldet sind,
                   speichert Google die erhobenen Daten mit einer eindeutigen
@@ -1756,7 +3934,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Einige der Daten, die Google speichert, können Sie jederzeit
                   wieder löschen (siehe nächsten Abschnitt). Viele
@@ -1770,14 +3960,42 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie kann ich meine Daten löschen bzw. die Datenspeicherung
                   verhindern?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Sie haben immer die Möglichkeit Cookies, die sich auf Ihrem
                   Computer befinden, zu löschen oder zu deaktivieren. Wie genau
@@ -1785,77 +4003,196 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Hier finden Sie die Anleitung, wie Sie Cookies in Ihrem
                   Browser verwalten:
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.google.com/chrome/answer/95647?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Chrome: Cookies in Chrome löschen, aktivieren und
                     verwalten</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Safari: Verwalten von Cookies und Websitedaten mit
                     Safari</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Firefox: Cookies löschen, um Daten zu entfernen, die
                     Websites auf Ihrem Computer abgelegt haben</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.microsoft.com/de-at/help/17442/windows-internet-explorer-delete-manage-cookies?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Internet Explorer: Löschen und Verwalten von Cookies</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.microsoft.com/de-at/help/4027947/windows-delete-cookies?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Microsoft Edge: Löschen und Verwalten von Cookies</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Falls Sie grundsätzlich keine Cookies haben wollen, können Sie
                   Ihren Browser so einrichten, dass er Sie immer informiert,
@@ -1867,7 +4204,14 @@
                     href="https://support.google.com/ads/answer/7395996"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://support.google.com/ads/answer/7395996</a
                   >
                   werden ebenfalls alle „Werbecookies“ deaktiviert. Bedenken
@@ -1877,7 +4221,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wenn Sie ein Google Konto besitzen, können Sie auf der
                   Webseite
@@ -1885,7 +4241,14 @@
                     href="https://adssettings.google.com/authenticated"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://adssettings.google.com/authenticated</a
                   >
                   personalisierte Werbung deaktivieren. Auch hier sehen Sie dann
@@ -1897,7 +4260,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Welche Daten Google grundsätzlich erfasst und wofür sie diese
                   Daten verwenden, können Sie auf
@@ -1905,20 +4280,55 @@
                     href="https://www.google.com/intl/de/policies/privacy/"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://www.google.com/intl/de/policies/privacy/</a
                   >
                   nachlesen.
                 </p>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Facebook Datenschutzerklärung
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wir verwenden auf unserer Webseite ausgewählte Facebook Tools
                   von Facebook. Facebook ist ein Social Media Network des
@@ -1932,13 +4342,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Was sind Facebook-Tools?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Neben vielen anderen Produkten bietet Facebook auch die
                   sogenannten “Facebook Business Tools” an.&nbsp;Das ist die
@@ -1948,73 +4386,137 @@
                 </p>
 
                 <ul
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Facebook-Pixel
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     soziale Plug-ins (wie z.B der „Gefällt mir“- oder
                     „Teilen“-Button)
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Facebook Login
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Account Kit
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     APIs (Programmierschnittstelle)
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     SDKs (Sammlung von Programmierwerkzeugen)
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Plattform-Integrationen
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Plugins
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Codes
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Spezifikationen
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Dokumentationen
                   </li>
                   <li
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                     Technologien und Dienstleistungen
                   </li>
                 </ul>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Durch diese Tools erweitert Facebook Dienstleistungen und hat
                   die Möglichkeit, Informationen über User-Aktivitäten außerhalb
@@ -2022,13 +4524,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Warum verwenden wir Facebook-Tools auf unserer Webseite?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wir wollen unsere Dienstleistungen und Produkte nur Menschen
                   zeigen, die sich auch wirklich dafür interessieren. Mithilfe
@@ -2045,7 +4575,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Daten über Ihr Verhalten auf unserer Webseite nennt Facebook
                   „Event-Daten“. Diese werden auch für Messungs- und
@@ -2060,13 +4602,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Welche Daten werden von Facebook-Tools gespeichert?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Durch die Nutzung einzelner Facebook-Tools können
                   personenbezogene Daten (Kundendaten) an Facebook gesendet
@@ -2076,7 +4646,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Facebook verwendet diese Informationen, um die Daten mit den
                   ihren eigenen Daten, die es von Ihnen hat (sofern Sie
@@ -2088,7 +4670,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Neben den Kontaktdaten werden auch „Event-Daten“ übermittelt.
                   Unter „Event-Daten“ sind jene Informationen gemeint, die wir
@@ -2104,7 +4698,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Um Werbeanzeigen optimiert ausliefern zu können, verwendet
                   Facebook die Event-Daten nur, wenn diese mit anderen Daten
@@ -2124,19 +4730,54 @@
                     href="https://www.facebook.com/policies/cookies?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://www.facebook.com/policies/cookies</a
                   >.
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie lange und wo werden die Daten gespeichert?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Grundsätzlich speichert Facebook Daten bis sie nicht mehr für
                   die eigenen Dienste und Facebook-Produkte benötigt werden.
@@ -2147,14 +4788,42 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie kann ich meine Daten löschen bzw. die Datenspeicherung
                   verhindern?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Entsprechend der Datenschutz Grundverordnung haben Sie das
                   Recht auf Auskunft, Berichtigung, Übertragbarkeit und Löschung
@@ -2162,7 +4831,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Eine komplette Löschung der Daten erfolgt nur, wenn Sie Ihr
                   Facebook-Konto vollständig löschen. Und so funktioniert das
@@ -2170,40 +4851,112 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   1) Klicken Sie rechts bei Facebook auf Einstellungen.
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   2) Anschließend klicken Sie in der linken Spalte auf „Deine
                   Facebook-Informationen“.
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   3) Nun klicken Sie “Deaktivierung und Löschung”.
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   4) Wählen Sie jetzt „Konto löschen“ und klicken Sie dann auf
                   „Weiter und Konto löschen“
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   5) Geben Sie nun Ihr Passwort ein, klicken Sie auf „Weiter“
                   und dann auf „Konto löschen“
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Die Speicherung der Daten, die Facebook über unsere Seite
                   erhält, erfolgt unter anderem über Cookies (z.B. bei sozialen
@@ -2215,70 +4968,177 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.google.com/chrome/answer/95647?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Chrome: Cookies in Chrome löschen, aktivieren und
                     verwalten</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Safari: Verwalten von Cookies und Websitedaten mit
                     Safari</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Firefox: Cookies löschen, um Daten zu entfernen, die
                     Websites auf Ihrem Computer abgelegt haben</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.microsoft.com/de-at/help/17442/windows-internet-explorer-delete-manage-cookies?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Internet Explorer: Löschen und Verwalten von Cookies</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.microsoft.com/de-at/help/4027947/windows-delete-cookies?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Microsoft Edge: Löschen und Verwalten von Cookies</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Falls Sie grundsätzlich keine Cookies haben wollen, können Sie
                   Ihren Browser so einrichten, dass er Sie immer informiert,
@@ -2287,7 +5147,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Facebook ist aktiver Teilnehmer beim EU-U.S. Privacy Shield
                   Framework, wodurch der korrekte und sichere Datentransfer
@@ -2297,7 +5169,14 @@
                     href="https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC"
                     rel="follow noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC</a
                   >. Wir hoffen wir haben Ihnen die wichtigsten Informationen
                   über die Nutzung und Datenverarbeitung durch die
@@ -2308,19 +5187,54 @@
                     href="https://www.facebook.com/about/privacy/update"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://www.facebook.com/about/privacy/update</a
                   >.
                 </p>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Instagram Datenschutzerklärung
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wir haben auf unserer Webseite Funktionen von Instagram
                   eingebaut. Instagram ist eine Social Media Plattform des
@@ -2339,7 +5253,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Im Folgenden wollen wir Ihnen einen genaueren Einblick geben,
                   warum Instagram Daten sammelt, um welche Daten es sich handelt
@@ -2351,13 +5277,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Was ist Instagram?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Instagram ist eines der bekanntesten Social Media Netzwerken
                   weltweit. Instagram kombiniert die Vorteile eines Blogs mit
@@ -2370,13 +5324,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Warum verwenden wir Instagram auf unserer Webseite?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Instagram ist jene Social Media Plattform, die in den letzten
                   Jahren so richtig durch die Decke ging. Und natürlich haben
@@ -2395,7 +5377,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Instagram nützt die gesammelten Daten auch&nbsp;zu Messungs-
                   und Analysezwecken. Wir bekommen zusammengefasste Statistiken
@@ -2405,13 +5399,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Welche Daten werden von Instagram gespeichert?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wenn Sie auf eine unserer Seiten stoßen, die
                   Instagram-Funktionen (wie Instagrambilder oder Plug-ins)
@@ -2428,7 +5450,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Facebook unterscheidet zwischen Kundendaten und Eventdaten.
                   Wir gehen davon aus, dass dies bei Instagram genau so der Fall
@@ -2447,7 +5481,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Über kleine Text-Dateien (Cookies), die meist in Ihrem Browser
                   gesetzt werden, werden die gesammelten Daten an Facebook
@@ -2457,7 +5503,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wir gehen davon aus, dass bei Instagram die Datenverarbeitung
                   gleich funktioniert wie bei Facebook. Das bedeutet: wenn Sie
@@ -2466,7 +5524,14 @@
                     href="http://www.instagram.com?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >www.instagram.com</a
                   >
                   besucht haben, hat Instagram zumindest ein Cookie gesetzt.
@@ -2480,7 +5545,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Im Folgenden zeigen wir Ihnen Cookies, die in Ihrem Browser
                   mindestens gesetzt werden, wenn Sie auf eine
@@ -2492,171 +5569,403 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Diese Cookies wurden bei unserem Test verwendet:
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name: </strong
                   >csrftoken<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert: </strong
                   >“”<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:&nbsp;</strong
                   >Dieses Cookie wird mit hoher Wahrscheinlichkeit aus
                   Sicherheitsgründen gesetzt, um Fälschungen von Anfragen zu
                   verhindern. Genauer konnten wir das allerdings nicht in
                   Erfahrung bringen.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >
                   nach einem Jahr
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name: </strong
                   >mid<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert: </strong
                   >“”<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck: </strong
                   >Instagram setzt dieses Cookie, um die eigenen
                   Dienstleistungen und Angebote in und außerhalb von Instagram
                   zu optimieren. Das Cookie legt eine eindeutige User-ID
                   fest.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >
                   nach Ende der Sitzung
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   fbsr_311165736124024<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert: </strong
                   >keine Angaben<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:&nbsp;</strong
                   >Dieses Cookie speichert die Log-in-Anfrage für User der
                   Instagram-App.<strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   >
                   </strong
                   ><br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >
                   nach Ende der Sitzung
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   rur<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert: </strong
                   >ATN<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck: </strong
                   >Dabei handelt es sich um ein Instagram-Cookie, das die
                   Funktionalität auf Instagram gewährleistet.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >
                   nach Ende der Sitzung
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   urlgen<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert: </strong
                   >“{\”194.96.75.33\”: 1901}:1iEtYv:Y833k2_UjKvXgYe311165736”<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck: </strong
                   >Dieses Cookie dient den Marketingzwecken von Instagram.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >
                   nach Ende der Sitzung
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Anmerkung:</strong
                   >
                   Wir können hier keinen Vollständigkeitsanspruch erheben.
@@ -2666,13 +5975,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie lange und wo werden die Daten gespeichert?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Instagram teilt die erhaltenen Informationen zwischen den
                   Facebook-Unternehmen mit externen Partnern und mit Personen,
@@ -2684,14 +6021,42 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie kann ich meine Daten löschen bzw. die Datenspeicherung
                   verhindern?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Dank der Datenschutz Grundverordnung haben Sie das Recht auf
                   Auskunft, Übertragbarkeit, Berichtigung und Löschung Ihrer
@@ -2701,13 +6066,37 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Und so funktioniert die Löschung des Instagram-Kontos:
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Öffnen Sie zuerst die Instagram-App. Auf Ihrer Profilseite
                   gehen Sie nach unten und klicken Sie auf „Hilfebereich“. Jetzt
@@ -2717,7 +6106,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wenn Sie Ihr Konto ganz löschen, löscht Instagram Posts wie
                   beispielsweise Ihre Fotos und Status-Updates. Informationen,
@@ -2726,7 +6127,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie bereits oben erwähnt, speichert Instagram Ihre Daten in
                   erster Linie über Cookies. Diese Cookies können Sie in Ihrem
@@ -2737,70 +6150,177 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.google.com/chrome/answer/95647?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Chrome: Cookies in Chrome löschen, aktivieren und
                     verwalten</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Safari: Verwalten von Cookies und Websitedaten mit
                     Safari</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Firefox: Cookies löschen, um Daten zu entfernen, die
                     Websites auf Ihrem Computer abgelegt haben</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.microsoft.com/de-at/help/17442/windows-internet-explorer-delete-manage-cookies?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Internet Explorer: Löschen und Verwalten von Cookies</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.microsoft.com/de-at/help/4027947/windows-delete-cookies?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Microsoft Edge: Löschen und Verwalten von Cookies</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Sie können auch grundsätzlich Ihren Browser so einrichten,
                   dass Sie immer informiert werden, wenn ein Cookie gesetzt
@@ -2809,7 +6329,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Instagram ist ein Tochterunternehmen von Facebook Inc. und
                   Facebook ist aktiver Teilnehmer beim EU-U.S. Privacy Shield
@@ -2819,7 +6351,14 @@
                     href="https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&nbsp;</a
                   >&nbsp;erfahren Sie mehr darüber. Wir haben versucht, Ihnen
                   die wichtigsten Informationen über die Datenverarbeitung durch
@@ -2828,23 +6367,62 @@
                     href="https://help.instagram.com/519522125107875"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://help.instagram.com/519522125107875</a
                   ><br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   können Sie sich noch näher mit den Datenrichtlinien von
                   Instagram auseinandersetzen.
                 </p>
 
                 <h2
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 34px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 34px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   YouTube Datenschutzerklärung
                 </h2>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wir haben auf unserer Webseite YouTube-Videos eingebaut. So
                   können wir Ihnen interessante Videos direkt auf unserer Seite
@@ -2861,7 +6439,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Im Folgenden wollen wir Ihnen genauer erklären, welche Daten
                   verarbeitet werden, warum wir YouTube-Videos eingebunden haben
@@ -2869,13 +6459,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Was ist YouTube?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Auf YouTube können die User kostenlos Videos ansehen,
                   bewerten, kommentieren und selbst hochladen. Über die letzten
@@ -2886,13 +6504,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Warum verwenden wir YouTube-Videos auf unserer Webseite?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   YouTube ist die Videoplattform mit den meisten Besuchern und
                   dem besten Content. Wir sind bemüht, Ihnen die bestmögliche
@@ -2908,13 +6554,41 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Welche Daten werden von YouTube gespeichert?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Sobald Sie eine unserer Seiten besuchen, die ein YouTube-Video
                   eingebaut hat, setzt YouTube zumindest ein Cookie, das Ihre
@@ -2930,7 +6604,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wenn Sie nicht in einem Google-Konto oder einem Youtube-Konto
                   angemeldet sind, speichert Google Daten mit einer eindeutigen
@@ -2941,7 +6627,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   In der folgenden Liste zeigen wir Cookies, die in einem Test
                   im Browser gesetzt wurden. Wir zeigen einerseits Cookies, die
@@ -2953,370 +6651,850 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   YSC<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:</strong
                   >
                   b9-CV6ojI5Y<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >
                   Dieses Cookie registriert eine eindeutige ID, um Statistiken
                   des gesehenen Videos zu speichern.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >
                   nach Sitzungsende
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   PREF<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:</strong
                   >
                   f1=50000000<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >
                   Dieses Cookie registriert ebenfalls Ihre eindeutige ID. Google
                   bekommt über PREF Statistiken, wie Sie YouTube-Videos auf
                   unserer Webseite verwenden.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >&nbsp;nach 8 Monate
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   GPS<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:</strong
                   >
                   1<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >
                   Dieses Cookie registriert Ihre eindeutige ID auf mobilen
                   Geräten, um den GPS-Standort zu tracken.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >&nbsp;nach 30 Minuten
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   VISITOR_INFO1_LIVE<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:</strong
                   >
                   95Chz8bagyU<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >
                   Dieses Cookie versucht die Bandbreite des Users auf unseren
                   Webseiten (mit eingebautem YouTube-Video) zu schätzen.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >&nbsp;nach 8 Monaten
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Weitere Cookies, die gesetzt werden, wenn Sie mit Ihrem
                   YouTube-Konto angemeldet sind:
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   APISID<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:</strong
                   >
                   zILlvClZSkqGsSwI/AU1aZI6HY7311165736-<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >
                   Dieses Cookie wird verwendet, um ein Profil über Ihre
                   Interessen zu erstellen. Genützt werden die Daten für
                   personalisierte Werbeanzeigen.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >&nbsp;nach 2 Jahre
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   CONSENT<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:</strong
                   >
                   YES+AT.de+20150628-20-0<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >
                   Das Cookie speichert den Status der Zustimmung eines Users zur
                   Nutzung unterschiedlicher Services von Google. CONSENT dient
                   auch der Sicherheit, um User zu überprüfen und Userdaten vor
                   unbefugten Angriffen zu schützen.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum: </strong
                   >nach 19 Jahren
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   HSID<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:</strong
                   >
                   AcRwpgUik9Dveht0I<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >
                   Dieses Cookie wird verwendet, um ein Profil über Ihre
                   Interessen zu erstellen. Diese Daten helfen personalisierte
                   Werbung anzeigen zu können.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >&nbsp;nach 2 Jahren
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   LOGIN_INFO<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:</strong
                   >
                   AFmmF2swRQIhALl6aL…<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >
                   In diesem Cookie werden Informationen über Ihre Login-Daten
                   gespeichert.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >&nbsp;nach 2 Jahren
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   SAPISID<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:</strong
                   >
                   7oaPxoG-pZsJuuF5/AnUdDUIsJ9iJz2vdM<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >
                   Dieses Cookie funktioniert, indem es Ihren Browser und Ihr
                   Gerät eindeutig identifiziert. Es wird verwendet, um ein
                   Profil über Ihre Interessen zu erstellen.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >&nbsp;nach 2 Jahren
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   SID<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:</strong
                   >
                   oQfNKjAsI311165736-<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >
                   Dieses Cookie speichert Ihre Google-Konto-ID und Ihren letzten
                   Anmeldezeitpunkt in digital signierter und verschlüsselter
                   Form.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >&nbsp;nach 2 Jahren
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Name:</strong
                   >
                   SIDCC<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Wert:</strong
                   >
                   AN0-TYuqub2JOcDTyL<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Verwendungszweck:</strong
                   >
                   Dieses Cookie speichert Informationen, wie Sie die Webseite
                   nutzen und welche Werbung Sie vor dem Besuch auf unserer Seite
                   möglicherweise gesehen haben.<br
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                   />
                   <strong
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      box-sizing: border-box !important;
+                    "
                     >Ablaufdatum:</strong
                   >&nbsp;nach 3 Monaten
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie lange und wo werden die Daten gespeichert?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Die Daten, die YouTube von Ihnen erhält und verarbeitet werden
                   auf den Google-Servern gespeichert. Die meisten dieser Server
@@ -3325,7 +7503,14 @@
                     href="https://www.google.com/about/datacenters/inside/locations/?hl=de"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://www.google.com/about/datacenters/inside/locations/?hl=de</a
                   >
                   &nbsp;sehen Sie genau wo sich die Google-Rechenzentren
@@ -3335,7 +7520,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Die erhobenen Daten speichert Google unterschiedlich lang.
                   Manche Daten können Sie jederzeit löschen, andere werden
@@ -3350,14 +7547,42 @@
                 </p>
 
                 <h3
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;display: block;margin: 0;padding: 0;color: #4ebf96;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 22px;font-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    display: block;
+                    margin: 0;
+                    padding: 0;
+                    color: #4ebf96;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    letter-spacing: normal;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Wie kann ich meine Daten löschen bzw. die Datenspeicherung
                   verhindern?
                 </h3>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Grundsätzlich können Sie Daten im Google Konto manuell
                   löschen. Mit der 2019 eingeführten automatische Löschfunktion
@@ -3367,7 +7592,19 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Unabhängig, ob Sie ein Google-Konto haben oder nicht, können
                   Sie Ihren Browser so konfigurieren, dass Cookies von Google
@@ -3378,70 +7615,177 @@
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.google.com/chrome/answer/95647?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Chrome: Cookies in Chrome löschen, aktivieren und
                     verwalten</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Safari: Verwalten von Cookies und Websitedaten mit
                     Safari</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Firefox: Cookies löschen, um Daten zu entfernen, die
                     Websites auf Ihrem Computer abgelegt haben</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.microsoft.com/de-at/help/17442/windows-internet-explorer-delete-manage-cookies?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Internet Explorer: Löschen und Verwalten von Cookies</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   <a
                     href="https://support.microsoft.com/de-at/help/4027947/windows-delete-cookies?tid=311165736"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Microsoft Edge: Löschen und Verwalten von Cookies</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Falls Sie grundsätzlich keine Cookies haben wollen, können Sie
                   Ihren Browser so einrichten, dass er Sie immer informiert,
@@ -3455,20 +7799,46 @@
                     href="https://policies.google.com/privacy?hl=de"
                     rel="noopener"
                     target="_blank"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >https://policies.google.com/privacy?hl=de.</a
                   >
                 </p>
 
                 <p
-                  style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;margin: 10px 0;padding: 0;color: #000000;font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;font-size: 16px;line-height: 150%;text-align: left;box-sizing: border-box !important;"
+                  style="
+                    -webkit-box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    margin: 10px 0;
+                    padding: 0;
+                    color: #000000;
+                    font-family: 'Helvetica Neue', Helvetica, Arial, Verdana,
+                      sans-serif;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: left;
+                    box-sizing: border-box !important;
+                  "
                 >
                   Quelle: Erstellt&nbsp;mit dem&nbsp;<a
                     href="https://www.adsimple.de/datenschutz-generator/"
                     rel="follow"
                     target="_blank"
                     title="Datenschutz Generator Deutschland"
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >Datenschutz Generator</a
                   >
                   von AdSimple&nbsp;in Kooperation mit
@@ -3477,7 +7847,14 @@
                     rel="follow"
                     target="_blank"
                     title=""
-                    style="-webkit-box-sizing: border-box;-moz-box-sizing: border-box;color: #007c89;font-weight: normal;text-decoration: underline;box-sizing: border-box !important;"
+                    style="
+                      -webkit-box-sizing: border-box;
+                      -moz-box-sizing: border-box;
+                      color: #007c89;
+                      font-weight: normal;
+                      text-decoration: underline;
+                      box-sizing: border-box !important;
+                    "
                     >hashtagmann.de</a
                   >
                 </p>
